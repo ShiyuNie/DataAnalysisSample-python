@@ -41,7 +41,6 @@
 								发布时间 release_time.
 ### 文件说明
 ---
-<<<<<<< HEAD
 	AnalyzeRecord.txt 						数据分析记录
 	LagouAnalyst.pptx 						项目展示
 	--------------------------------------------------------
@@ -51,15 +50,3 @@
 	datapro_skill.py 						数据分析师技能的分析和可视化
 	datapro_wc.py 							数据分析师技能词云
 	figures/*.jpg 							图表（PPT中展示）
-=======
-	get_data.py 		爬虫爬取拉勾网数据
-	LaGou_DataAnalyst.csv   爬取的数据
-	datapro_basic.py 	数据处理及可视化
-	datapro_skill.py 	数据分析师技能的分析和可视化
-	datapro_wc.py 		数据分析师技能词云
-	*.jpg 			图表（PPT中展示）
-	AnalyzeRecord.txt 	数据分析记录
-	LagouAnalyst.pptx 	项目展示
-
-
->>>>>>> e7fa1c854e37cbb1e623a4dc891a6cf9c96e4b91
